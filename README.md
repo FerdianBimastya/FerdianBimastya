@@ -33,9 +33,9 @@
 
 <!-- Kontak -->
 ### 📫 Kontak
-- Email: ferdianbimastya@email.com
+- Email: ferdianbimastya1@email.com
 - LinkedIn: [linkedin.com/in/ferdianbimastya](https://linkedin.com/in/ferdianbimastya)
-- Instagram: [@ferdianbimastya](https://instagram.com/ferdianbimastya)
+- Instagram: [@ferdianbimastya](https://instagram.com/ferdianbimastya_)
 
 ---
 
